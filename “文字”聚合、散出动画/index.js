@@ -1,3 +1,4 @@
+//此效果摘自html5梦工厂：http://www.html5dw.com/post?id=1107
 function rnd(n, m)//用来获取随机数，获取的随机数的范围为 n~m
 {
 	return parseInt(Math.random()*(m-n)+n);
